@@ -1,0 +1,5 @@
+start orbd -ORBInitialPort 900
+
+java Server -ORBInitialPort 900
+
+java Client -ORBInitialPort 900
